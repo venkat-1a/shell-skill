@@ -4,3 +4,4 @@
 ### Modify the inputs
 
 1.Git push to central repo
+2.Update and push
