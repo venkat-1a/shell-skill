@@ -6,4 +6,3 @@
 1. Git push to central repo
 
 2. Update and push
-3. ls -l
